@@ -1,0 +1,39 @@
+body {
+     font-family: Arial, sans-serif;
+     font-size:15px;
+}
+ .list-items{
+     list-style-type: none;
+     text-align: left;
+     padding:10px;
+}
+ .animal-card {
+     border: 2px solid #939393;
+     width:320px;
+     border-radius: 10px 10px 10px 10px;
+     background: linear-gradient(to top right, #8fa59f, #d3d0Af);
+     box-shadow: 1.5px 2px 5px 2px #939393;
+}
+ .border-article{
+     margin: 9.2px;
+     border: 1px solid #939393;
+     border-radius: 5px 5px 5px 5px;
+     width:300px;
+     margin-bottom: 10px;
+     background-color:#ebffcc;
+}
+ h3{
+     margin: 9.2px;
+     font-size: 30px;
+}
+ img{
+     margin:9.2px;
+     border-radius: 5px 5px 5px 5px;
+}
+ p{
+     margin: 10px;
+}
+ .image{
+     height:200px;
+     width:300px;
+}
